@@ -5,3 +5,13 @@ The objective of this project is to analyze customer churn patterns to identify 
 ## Dataset
 <a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Customer_Data.csv">Dataset</a>
 
+## KPIs for This Project
+1.Customer Churn Rate
+2.Average Customer Tenure 
+3.Churn Rate by Contract Type
+4.Churn by Internet Type or Service Usage
+5.Churn Reasons and Categories
+
+## Dashboard
+Here is a link to the visualized dashboard in Tableau <a href=""></a>
+
