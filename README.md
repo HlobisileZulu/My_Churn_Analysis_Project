@@ -1,2 +1,6 @@
-# My_Churn_Analysisi
-This project focuses on examining customer data to identify patterns and reasons behind customer departures by using advanced data analytics. Businesses can use such predictions to observe customers that are at risk of leaving and understand the factors driving their decisions and can further create retention strategies based of the analyzed data
+# Churn Analysis Project
+## Project Objective:
+The objective of this project is to analyze customer churn patterns to identify key factors influencing customer retention. Using MySQL, customer data was cleaned, transformed, and prepared for analysis to ensure accuracy and consistency. The processed data was then visualized in Tableau to uncover actionable insights through interactive dashboards, highlighting trends, high-risk customer segments, and key performance indicators. The ultimate goal is to support data-driven decision-making for improving customer retention strategies and reducing churn rates.
+
+## Dataset
+
