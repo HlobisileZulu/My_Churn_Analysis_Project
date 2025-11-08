@@ -14,7 +14,7 @@ The objective of this project is to analyze customer churn patterns to identify 
 
 ## Dashboard, Code and Screenshot
 Here is a link to the visualized dashboard in Tableau <a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Churn_Analysis_visualization2.twb">visualization,</a>
-<a href="">visualization,</a>
+<a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Screenshot.png">screenshot</a> and <a href="">MySQL code</a>
 
 
 
