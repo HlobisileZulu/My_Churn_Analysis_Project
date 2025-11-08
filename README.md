@@ -15,11 +15,11 @@ The objective of this project is to analyze customer churn patterns to identify 
 ## Dashboard, Code and Screenshot
 Here are links to the <a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Churn_Analysis_visualization2.twb">visualization</a> dashboard in Tableau, a <a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Screenshot.png">screenshot</a> showing the projects visualization and MySQL code:
 
-<a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Churn%20Data%20Analysis.sql">MySQL code 1</a>
+<a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Churn%20Data%20Analysis.sql">code 1</a>
 
-<a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Churn%20Data%20Analysis%202.sql">MySQL code 2</a>
+<a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Churn%20Data%20Analysis%202.sql">code 2</a>
 
-<a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Churn%20Data%20Analysis%203.sql">MySQL code 3</a>
+<a href="https://github.com/HlobisileZulu/My_Churn_Analysis_Project/blob/main/Churn%20Data%20Analysis%203.sql">code 3</a>
 
 
 
